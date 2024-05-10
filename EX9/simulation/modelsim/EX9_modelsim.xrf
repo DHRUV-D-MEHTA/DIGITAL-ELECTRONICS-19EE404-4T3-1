@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Admin/Desktop/digital/EX9/EX9.v
+source_file = 1, C:/Users/Admin/Desktop/digital/EX9/Waveform.vwf
+source_file = 1, Waveform1.vwf
+source_file = 1, C:/Users/Admin/Desktop/digital/EX9/db/EX9.cbx.xml
+design_name = EX9
+instance = comp, \Q~output , Q~output, EX9, 1
+instance = comp, \Qbar~output , Qbar~output, EX9, 1
+instance = comp, \clk~input , clk~input, EX9, 1
+instance = comp, \T~input , T~input, EX9, 1
+instance = comp, \comb~1 , comb~1, EX9, 1
+instance = comp, \comb~0 , comb~0, EX9, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, EX9, 1

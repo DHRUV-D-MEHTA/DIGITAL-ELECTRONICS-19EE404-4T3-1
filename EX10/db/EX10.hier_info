@@ -1,0 +1,13 @@
+|EX10
+clk => tmp[0].CLK
+clk => tmp[1].CLK
+clk => tmp[2].CLK
+clk => tmp[3].CLK
+clear => tmp.OUTPUTSELECT
+clear => tmp.OUTPUTSELECT
+clear => tmp.OUTPUTSELECT
+clear => tmp.OUTPUTSELECT
+si => tmp.DATAA
+so <= tmp[3].DB_MAX_OUTPUT_PORT_TYPE
+
+

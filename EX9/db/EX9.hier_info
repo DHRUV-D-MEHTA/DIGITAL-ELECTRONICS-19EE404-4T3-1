@@ -1,0 +1,9 @@
+|EX9
+T => WideNand0.IN1
+T => WideNand1.IN0
+clk => WideNand0.IN2
+clk => WideNand1.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+Qbar <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+

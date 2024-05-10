@@ -1,0 +1,14 @@
+|EX5
+dout0 <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+dout1 <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+dout2 <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+din0 => Decoder0.IN7
+din1 => Decoder0.IN6
+din2 => Decoder0.IN5
+din3 => Decoder0.IN4
+din4 => Decoder0.IN3
+din5 => Decoder0.IN2
+din6 => Decoder0.IN1
+din7 => Decoder0.IN0
+
+

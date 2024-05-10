@@ -1,0 +1,48 @@
+module EX10(
+  input clk, clear, si,
+  output reg so
+);
+  reg [3:0] tmp; // 4-bit shift register
+
+  always @(posedge clk) begin
+    if (clear) begin
+      tmp <= 4'b0000; // Clear the shift register
+    end else begin
+      tmp <= {tmp[2:0], si}; // Shift in new data from si
+    end
+  end
+
+  // Output the MSB (most significant bit) of the shift register
+  assign so = tmp[3];
+endmodule
+
+module testbench;
+  reg clk, clear, si;
+  wire so;
+
+  SISOSR siso(
+    .clk(clk),
+    .clear(clear),
+    .si(si),
+    .so(so)
+  );
+
+  initial begin
+    $dumpfile("siso_waveform.vcd");
+    $dumpvars(0, testbench);
+
+    clk = 0;
+    clear = 1;
+    si = 0;
+
+    #10 clear = 0; // Release clear
+    #10 si = 1; // Input data 1
+    #10 si = 0; // Input data 0
+    #10 si = 1; // Input data 1
+
+    // Wait for some clock cycles to observe the output
+    #100 $finish;
+  end
+
+  always #5 clk = ~clk; // Toggle clock every 5 time units
+endmodule

@@ -1,0 +1,9 @@
+module EX5 (
+  input d0, d1, d2, d3, d4, d5, d6, d7,
+  output reg a0, a1, a2
+);
+  // Dataflow modeling for 8-to-3 encoder
+  assign a0 = ~(d7 | d6 | d5 | d4); // a0 = not(d7 OR d6 OR d5 OR d4)
+  assign a1 = ~(d7 | d6 | d3 | d2); // a1 = not(d7 OR d6 OR d3 OR d2)
+  assign a2 = ~(d7 | d5 | d3 | d1); // a2 = not(d7 OR d5 OR d3 OR d1)
+endmodule

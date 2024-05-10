@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Admin/Desktop/digital/EX3/HALF SUBTRACTOR/HALF_SUBTRACTOR.v
+source_file = 1, C:/Users/Admin/Desktop/digital/EX3/HALF SUBTRACTOR/Waveform.vwf
+source_file = 1, C:/Users/Admin/Desktop/digital/EX3/HALF SUBTRACTOR/db/HALF_SUBTRACTOR.cbx.xml
+design_name = HALF_SUBTRACTOR
+instance = comp, \difference~output , difference~output, HALF_SUBTRACTOR, 1
+instance = comp, \borrow~output , borrow~output, HALF_SUBTRACTOR, 1
+instance = comp, \a~input , a~input, HALF_SUBTRACTOR, 1
+instance = comp, \b~input , b~input, HALF_SUBTRACTOR, 1
+instance = comp, \difference~0 , difference~0, HALF_SUBTRACTOR, 1
+instance = comp, \borrow~0 , borrow~0, HALF_SUBTRACTOR, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, HALF_SUBTRACTOR, 1

@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Admin/Desktop/digital/EX4/FULL SUBTRACTOR/FULL_SUBTRACTOR.v
+source_file = 1, C:/Users/Admin/Desktop/digital/EX4/FULL SUBTRACTOR/Waveform.vwf
+source_file = 1, C:/Users/Admin/Desktop/digital/EX4/FULL SUBTRACTOR/db/FULL_SUBTRACTOR.cbx.xml
+design_name = FULL_SUBTRACTOR
+instance = comp, \difference~output , difference~output, FULL_SUBTRACTOR, 1
+instance = comp, \borrow~output , borrow~output, FULL_SUBTRACTOR, 1
+instance = comp, \b~input , b~input, FULL_SUBTRACTOR, 1
+instance = comp, \c~input , c~input, FULL_SUBTRACTOR, 1
+instance = comp, \a~input , a~input, FULL_SUBTRACTOR, 1
+instance = comp, \difference~0 , difference~0, FULL_SUBTRACTOR, 1
+instance = comp, \borrow~0 , borrow~0, FULL_SUBTRACTOR, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, FULL_SUBTRACTOR, 1

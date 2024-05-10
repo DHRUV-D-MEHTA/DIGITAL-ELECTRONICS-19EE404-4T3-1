@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Admin\Desktop\digital\EX10\simulation\qsim
+vEX10
+Z1 I_n6AHcS?LKek@m9YWT1RK0
+Z2 VFW]Dj<^:I@jf@dKTfiSaY0
+Z3 dC:\Users\Admin\Desktop\digital\EX10\simulation\qsim
+Z4 w1715315218
+Z5 8EX10.vo
+Z6 FEX10.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@e@x10
+!i10b 1
+Z10 !s100 HN@]ePic6XLe^Rk;6H^do1
+!s85 0
+Z11 !s108 1715315218.576000
+Z12 !s107 EX10.vo|
+Z13 !s90 -work|work|EX10.vo|
+!s101 -O0
+vEX10_vlg_check_tst
+!i10b 1
+!s100 mQQidi2704VmezO=6kCT00
+IakIhConZhGKo^D^kEWBNo2
+VgFH]LHgZNkI?DKKkQBe5I0
+R3
+Z14 w1715315217
+Z15 8EX10.vt
+Z16 FEX10.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z17 !s108 1715315218.636000
+Z18 !s107 EX10.vt|
+Z19 !s90 -work|work|EX10.vt|
+!s101 -O0
+R8
+n@e@x10_vlg_check_tst
+vEX10_vlg_sample_tst
+!i10b 1
+!s100 b9]<mciWC<]2a`f<[A?BN1
+ICcRUbLZU]EE4bj1V1L[6H1
+V3E0dFDz``cVFoXB4IO8nT3
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@e@x10_vlg_sample_tst
+vEX10_vlg_vec_tst
+!i10b 1
+!s100 W>79onSZ=MiiH;N3PiZZK2
+IC6[@ImzM`[BmX`M3AW1NU1
+Vamz60L]BUTjNh?za0^cAM3
+R3
+R14
+R15
+R16
+L0 156
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@e@x10_vlg_vec_tst

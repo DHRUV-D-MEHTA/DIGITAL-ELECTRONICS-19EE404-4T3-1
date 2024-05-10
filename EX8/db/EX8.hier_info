@@ -1,0 +1,9 @@
+|EX8
+D => X.IN0
+D => Y.IN0
+clk => X.IN1
+clk => Y.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+Qbar <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+

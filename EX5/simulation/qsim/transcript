@@ -1,0 +1,21 @@
+# do EX5.do 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module EX5
+# 
+# Top level modules:
+# 	EX5
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module EX5_vlg_sample_tst
+# -- Compiling module EX5_vlg_check_tst
+# -- Compiling module EX5_vlg_vec_tst
+# 
+# Top level modules:
+# 	EX5_vlg_vec_tst
+# vsim -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.EX5_vlg_vec_tst 
+# Loading work.EX5_vlg_vec_tst
+# Loading work.EX5
+# Loading work.EX5_vlg_sample_tst
+# Loading work.EX5_vlg_check_tst
+# Simulation passed !
+# ** Note: $finish    : EX5.vt(216)
+#    Time: 200 ns  Iteration: 0  Instance: /EX5_vlg_vec_tst/tb_out

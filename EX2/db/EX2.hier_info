@@ -1,0 +1,21 @@
+|EX2
+a => x2.IN0
+a => x4.IN0
+a => x1.IN0
+b => x4.IN1
+b => x5.IN0
+b => x3.IN0
+b => x1.IN1
+c => x3.IN1
+c => x4.IN1
+c => x5.IN1
+c => x2.IN1
+c => x1.IN1
+d => x4.IN1
+d => x5.IN1
+d => x3.IN1
+d => x2.IN1
+d => x1.IN1
+f1 <= f1.DB_MAX_OUTPUT_PORT_TYPE
+
+

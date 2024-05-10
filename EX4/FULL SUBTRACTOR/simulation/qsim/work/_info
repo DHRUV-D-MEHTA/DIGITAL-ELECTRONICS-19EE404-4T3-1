@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Admin\Desktop\digital\EX4\FULL SUBTRACTOR\simulation\qsim
+vFULL_SUBTRACTOR
+Z1 I>NJ8>AkK]W[m?nEQQSiLK0
+Z2 VDiVe@lfCM]6V>U6VgB=Dz1
+Z3 dC:\Users\Admin\Desktop\digital\EX4\FULL SUBTRACTOR\simulation\qsim
+Z4 w1715271851
+Z5 8FULL_SUBTRACTOR.vo
+Z6 FFULL_SUBTRACTOR.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@f@u@l@l_@s@u@b@t@r@a@c@t@o@r
+!i10b 1
+Z10 !s100 M:70BL>FV?[Ema[C4L?5B1
+!s85 0
+Z11 !s108 1715271852.319000
+Z12 !s107 FULL_SUBTRACTOR.vo|
+Z13 !s90 -work|work|FULL_SUBTRACTOR.vo|
+!s101 -O0
+vFULL_SUBTRACTOR_vlg_check_tst
+!i10b 1
+!s100 8@4mN>_@b1VO4RGWP>CJf1
+IjLXB4z0958>bcIWJU810b1
+VD:WS0=U`CSdAfS67zjg9_1
+R3
+R4
+Z14 8FULL_SUBTRACTOR.vt
+Z15 FFULL_SUBTRACTOR.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z16 !s108 1715271852.383000
+Z17 !s107 FULL_SUBTRACTOR.vt|
+Z18 !s90 -work|work|FULL_SUBTRACTOR.vt|
+!s101 -O0
+R8
+n@f@u@l@l_@s@u@b@t@r@a@c@t@o@r_vlg_check_tst
+vFULL_SUBTRACTOR_vlg_sample_tst
+!i10b 1
+!s100 Qo=R5fP=A;T`FBQ4b9HSI2
+ICn<6?Qd:;f<7^SG3aVD[F1
+V_oQm764TR:FSf1oWm^6;M2
+R3
+R4
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+n@f@u@l@l_@s@u@b@t@r@a@c@t@o@r_vlg_sample_tst
+vFULL_SUBTRACTOR_vlg_vec_tst
+!i10b 1
+!s100 fUd?lg@2K_XgQDRPhcWzL1
+InFFI5IYE5lX7k`TL5AzW[2
+VGJBaoOGa2<n54_c2MIecS1
+R3
+R4
+R14
+R15
+L0 183
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+n@f@u@l@l_@s@u@b@t@r@a@c@t@o@r_vlg_vec_tst

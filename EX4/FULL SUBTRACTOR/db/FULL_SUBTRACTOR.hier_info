@@ -1,0 +1,13 @@
+|FULL_SUBTRACTOR
+a => difference.IN0
+a => borrow.IN1
+b => difference.IN1
+b => borrow.IN0
+b => borrow.IN0
+c => difference.IN1
+c => borrow.IN1
+c => borrow.IN1
+difference <= difference.DB_MAX_OUTPUT_PORT_TYPE
+borrow <= borrow.DB_MAX_OUTPUT_PORT_TYPE
+
+

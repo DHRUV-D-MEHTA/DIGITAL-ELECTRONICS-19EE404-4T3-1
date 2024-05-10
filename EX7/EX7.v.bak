@@ -1,0 +1,9 @@
+module EX 7 (J,K,clk,Q,Qbar); 
+input J,K,clk; 
+output Q,Qbar; 
+wire X,Y; 
+nand (X,J,clk,Qbar); 
+nand (Y,K,clk,Q); 
+nand (Q,X,Qbar); 
+nand (Qbar,Y,Q); 
+endmodule 

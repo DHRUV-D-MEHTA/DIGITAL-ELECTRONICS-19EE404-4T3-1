@@ -1,0 +1,146 @@
+$comment
+	File created using the following command:
+		vcd file EX8.msim.vcd -direction
+$end
+$date
+	Thu May 09 23:01:57 2024
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module EX8_vlg_vec_tst $end
+$var reg 1 ! D $end
+$var reg 1 " clk $end
+$var wire 1 # Q $end
+$var wire 1 $ Qbar $end
+$var wire 1 % sampler $end
+$scope module i1 $end
+$var wire 1 & gnd $end
+$var wire 1 ' vcc $end
+$var wire 1 ( unknown $end
+$var tri1 1 ) devclrn $end
+$var tri1 1 * devpor $end
+$var tri1 1 + devoe $end
+$var wire 1 , ~QUARTUS_CREATED_GND~I_combout $end
+$var wire 1 - D~input_o $end
+$var wire 1 . clk~input_o $end
+$var wire 1 / comb~1_combout $end
+$var wire 1 0 comb~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1!
+1"
+1#
+0$
+x%
+0&
+1'
+x(
+1)
+1*
+1+
+0,
+1-
+1.
+0/
+00
+$end
+#10000
+0!
+0"
+0-
+0.
+0%
+#20000
+1!
+1"
+1-
+1.
+1%
+#40000
+0!
+0"
+0-
+0.
+0%
+#50000
+1!
+1"
+1-
+1.
+1%
+#60000
+0!
+0"
+0-
+0.
+0%
+#70000
+1!
+1"
+1-
+1.
+1%
+#80000
+0"
+0.
+0%
+#90000
+0!
+0-
+1%
+#100000
+1!
+1-
+0%
+#110000
+1"
+1.
+1%
+#130000
+0!
+0-
+0%
+1/
+10
+0#
+1$
+#140000
+0"
+0.
+1%
+#150000
+1"
+1.
+0%
+#160000
+1!
+1-
+1%
+0/
+1#
+00
+0$
+#170000
+0"
+0!
+0.
+0-
+0%
+#180000
+1"
+1!
+1.
+1-
+1%
+#190000
+0"
+0.
+0%
+#200000

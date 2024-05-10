@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Admin\Desktop\digital\EX4\FULL ADDER\simulation\qsim
+vFULL_ADDER
+Z1 I4NkH1:f?0UUgc7N=2IPBI0
+Z2 Vim[94GQM08cLT7[Qgc=3G0
+Z3 dC:\Users\Admin\Desktop\digital\EX4\FULL ADDER\simulation\qsim
+Z4 w1715271360
+Z5 8FULL_ADDER.vo
+Z6 FFULL_ADDER.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@f@u@l@l_@a@d@d@e@r
+!i10b 1
+Z10 !s100 P1B28J<J614MD7AGc9f_[3
+!s85 0
+Z11 !s108 1715271360.635000
+Z12 !s107 FULL_ADDER.vo|
+Z13 !s90 -work|work|FULL_ADDER.vo|
+!s101 -O0
+vFULL_ADDER_vlg_check_tst
+!i10b 1
+!s100 7YEBG8O0jU4@>UOoToJa^0
+IdRMVmR:0ISilWnIL8jWa93
+VA[W<eC7G`maOV[LM16fP92
+R3
+Z14 w1715271359
+Z15 8FULL_ADDER.vt
+Z16 FFULL_ADDER.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z17 !s108 1715271360.694000
+Z18 !s107 FULL_ADDER.vt|
+Z19 !s90 -work|work|FULL_ADDER.vt|
+!s101 -O0
+R8
+n@f@u@l@l_@a@d@d@e@r_vlg_check_tst
+vFULL_ADDER_vlg_sample_tst
+!i10b 1
+!s100 4f4KG_nI9TB4LnV<10Wd53
+I:oC>goZebP7cz;aVH89lh0
+VOojH1SIWH;Xah@hh^0]O60
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@f@u@l@l_@a@d@d@e@r_vlg_sample_tst
+vFULL_ADDER_vlg_vec_tst
+!i10b 1
+!s100 0R[TbSmRFU33OnS3zYdlc0
+I>L<NeiEU]dS:_igKDQO=n1
+V]Ez5l=icEgLkfIbDbhLTo2
+R3
+R14
+R15
+R16
+L0 183
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@f@u@l@l_@a@d@d@e@r_vlg_vec_tst
