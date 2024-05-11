@@ -6,6 +6,10 @@ entity EX2_vlg_sample_tst is
         b               : in     vl_logic;
         c               : in     vl_logic;
         d               : in     vl_logic;
+        w               : in     vl_logic;
+        x               : in     vl_logic;
+        y               : in     vl_logic;
+        z               : in     vl_logic;
         sampler_tx      : out    vl_logic
     );
 end EX2_vlg_sample_tst;

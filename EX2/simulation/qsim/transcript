@@ -17,5 +17,5 @@
 # Loading work.EX2_vlg_sample_tst
 # Loading work.EX2_vlg_check_tst
 # Simulation passed !
-# ** Note: $finish    : EX2.vt(154)
+# ** Note: $finish    : EX2.vt(189)
 #    Time: 200 ns  Iteration: 0  Instance: /EX2_vlg_vec_tst/tb_out

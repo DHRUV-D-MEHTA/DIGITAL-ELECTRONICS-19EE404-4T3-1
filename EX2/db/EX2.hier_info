@@ -1,21 +1,23 @@
 |EX2
-a => x2.IN0
-a => x4.IN0
-a => x1.IN0
-b => x4.IN1
-b => x5.IN0
-b => x3.IN0
-b => x1.IN1
-c => x3.IN1
-c => x4.IN1
-c => x5.IN1
-c => x2.IN1
-c => x1.IN1
-d => x4.IN1
-d => x5.IN1
-d => x3.IN1
-d => x2.IN1
-d => x1.IN1
-f1 <= f1.DB_MAX_OUTPUT_PORT_TYPE
+a => u9.IN0
+a => u11.IN0
+a => u8.IN0
+b => u8.IN1
+b => u9.IN1
+b => u11.IN1
+c => u9.IN2
+c => u11.IN2
+d => u8.IN2
+d => u9.IN3
+d => u11.IN3
+w => u12.IN0
+w => u14.IN0
+x => u12.IN1
+x => u14.IN1
+y => u14.IN2
+y => u12.IN2
+z => ~NO_FANOUT~
+f1 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+f2 <= o2.DB_MAX_OUTPUT_PORT_TYPE
 
 
